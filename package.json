@@ -1,0 +1,16 @@
+{
+  "name": "Lighting",
+  "version": "1.0.0",
+  "description": "3D model Lighting",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-cli": "^1.3.2",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-jsdoc": "^2.3.0"
+  },
+  "author": "Hussain M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
