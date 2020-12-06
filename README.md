@@ -1,6 +1,7 @@
 # 3d-lighting
 
 # Here is a working link I deployed on Heroku 
+# Chrome is not supported. Need WebGl enabled browser like firefox.
 
 https://lighting-3d.herokuapp.com/
 
