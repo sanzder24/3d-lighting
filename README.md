@@ -1,5 +1,6 @@
 # 3d-lighting
-
+# This project is downloaded and uploaded from my Gitlab Account:
+https://cci-git.uncc.edu/msyedniz/6120_project_3
 # Here is a working link I deployed on Heroku 
 # Chrome is not supported. Need WebGl enabled browser like firefox.
 
